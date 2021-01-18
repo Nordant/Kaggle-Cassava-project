@@ -20,3 +20,5 @@ Your task is to classify each cassava image into four disease categories or a fi
 **Competition link:** https://www.kaggle.com/c/cassava-leaf-disease-classification
 
 **Leaderboard:** https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard
+
+**'Cassava Leaf Disease Models' dataset:** https://www.kaggle.com/maksymshkliarevskyi/cassava-leaf-disease-models
