@@ -3,7 +3,7 @@ Identify the type of disease present on a Cassava Leaf image
 
 Author's profiles: [Kaggle](https://www.kaggle.com/maksymshkliarevskyi), [LinkedIn](https://www.linkedin.com/in/maksym-shkliarevskyi-8835581b1), [ResearchGate](https://www.researchgate.net/profile/Maksym_Shkliarevskyi)
 -
-**This repository contains all of my notebooks created by this project.**
+**This repository contains all of my notebooks created for this project.**
 
 Author's notebooks: https://www.kaggle.com/maksymshkliarevskyi/notebooks
 
